@@ -1,1 +1,1 @@
-# EU Sovereign Cloud
+# Sovereign European Cloud API (SECA)
