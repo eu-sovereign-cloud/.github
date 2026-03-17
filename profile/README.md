@@ -56,5 +56,13 @@ All specifications and source code are available under [Apache 2.0 License](LICE
 
 ---
 
+## 💰 Funding
+
+This open-source project is sponsored by **Aruba & IONOS SE** and has received public funding from the European Union NextGenerationEU within the IPCEI-CIS program.
+
+![SECA Funding](SECA-Funding-Logo.png)
+
+---
+
 Together, let’s build a future of **sovereign, open, and interoperable cloud infrastructure** for Europe and beyond. 🇪🇺☁️
 
