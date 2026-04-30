@@ -24,9 +24,11 @@ Our mission is to provide:
 |------------|-------------|
 | [`spec`](https://github.com/eu-sovereign-cloud/spec) | Official SECA API specifications (OpenAPI, JSON Schema, etc.) |
 | [`go-sdk`](https://github.com/eu-sovereign-cloud/go-sdk) | Go SDK for the SECA API specification |
+| [`terraform-provider-seca`](https://github.com/eu-sovereign-cloud/terraform-provider-seca) | Terraform provider for the SECA API specification |
 | [`secapi.cloud`](https://github.com/eu-sovereign-cloud/spec/tree/main/website) | Source for the official website [secapi.cloud](https://secapi.cloud) |
 | [`ecp`](https://github.com/eu-sovereign-cloud/ecp) | Repo for the official European Control Plane (ECP) |
 | [`conformance`](https://github.com/eu-sovereign-cloud/conformance) | Official conformance tests |
+
 
 > 📢 Want to contribute? See [`CONTRIBUTING.md`](https://github.com/eu-sovereign-cloud/spec/blob/main/CONTRIBUTING.md) and join the community!
 
